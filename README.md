@@ -7,7 +7,7 @@
 - Multiple Linear Regression [link](https://github.com/siddharth1608/datascience/blob/master/linear_regression/advertising_analysis_using_MLR.ipynb)
 
 ## Time Series
-- Air Quality analysis [link](https://github.com/siddharth1608/datascience/blob/master/time_series/air_quality_analysis.html)
+- Air Quality analysis [link](https://github.com/siddharth1608/datascience/blob/master/time_series/air_quality_analysis.ipynb)
 
 ## Contributors
 
