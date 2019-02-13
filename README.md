@@ -10,7 +10,7 @@
 - Air Quality analysis [link](https://github.com/siddharth1608/datascience/blob/master/time_series/air_quality_analysis.ipynb)
 
 ## Installation of Big Data Tools
-- [Apache Hadoop] (https://github.com/siddharth1608/datascience/blob/master/installation_guides/setup_hadoop.ipynb)
+- [Apache Hadoop](https://github.com/siddharth1608/datascience/blob/master/installation_guides/setup_hadoop.ipynb)
 
 ## Contributors
 
