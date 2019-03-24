@@ -10,7 +10,7 @@
 - [Air Quality analysis](https://github.com/siddharth1608/datascience/blob/master/time_series/air_quality_analysis.ipynb)
 
 ## Deep Learning
-- [Convolutional Neural Network on Pytorch for Handwritten Digit Classifier](https://github.com/siddharth1608/datascience/blob/master/time_series/Pytorch_mnist.ipynb)
+- [Convolutional Neural Network on Pytorch for Handwritten Digit Classifier](https://github.com/siddharth1608/datascience/blob/master/deep_learning/Pytorch_mnist.ipynb)
 
 ## Installation of Big Data Tools
 - [Apache Hadoop](https://github.com/siddharth1608/datascience/blob/master/installation_guides/setup_hadoop.ipynb)
