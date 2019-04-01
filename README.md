@@ -1,6 +1,8 @@
 # Welcome to datascience portal
 
-### This portal is to show examples on different Data Science techiques such as Machine Learning, Descriptive/ Inferential Statistics, etc
+### Hi, there. I will use this space to share my projects, learnings and experiences in Data Science. 
+
+#### Hope you like it. I will be happy to hear any comments, improvements or suggestions at skanojiy@sfu.ca | siddharth.kanojiya@gmail.com ####
 
 ## Linear Regression
 - [Simple Linear Regression](https://github.com/siddharth1608/datascience/blob/master/linear_regression/advertising_analysis_using_SLR.ipynb)
