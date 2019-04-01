@@ -4,11 +4,12 @@
 
 #### Hope you like it. I will be happy to hear any comments, improvements or suggestions at skanojiy@sfu.ca | siddharth.kanojiya@gmail.com ####
 
-## Linear Regression
-- [Simple Linear Regression](https://github.com/siddharth1608/datascience/blob/master/linear_regression/advertising_analysis_using_SLR.ipynb)
+## Machine Learning ##
+- ### Linear Regression ###
+  - [Simple Linear Regression](https://github.com/siddharth1608/datascience/blob/master/linear_regression/advertising_analysis_using_SLR.ipynb)
 
-
-## Time Series
+## Visualization
+### Time Series
 - [Air Quality analysis](https://github.com/siddharth1608/datascience/blob/master/time_series/air_quality_analysis.ipynb)
 
 ## Deep Learning
