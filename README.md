@@ -8,7 +8,7 @@
 - ### Linear Regression ###
   - [Simple Linear Regression](https://github.com/siddharth1608/datascience/blob/master/linear_regression/advertising_analysis_using_SLR.ipynb)
 
-- [Feature Selection Techniques] (https://github.com/siddharth1608/datascience/blob/master/feature_selection/notebook.ipynb)
+- [Feature Selection Techniques](https://github.com/siddharth1608/datascience/blob/master/feature_selection/notebook.ipynb)
 
 
 ## Visualization
