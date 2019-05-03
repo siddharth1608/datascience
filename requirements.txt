@@ -4,3 +4,4 @@ sklearn
 statsmodels
 matplotlib
 seaborn
+tqdm
