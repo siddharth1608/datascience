@@ -12,8 +12,7 @@
 
 ## Recommender Systems ##
 - ### Collaborative filtering ###
-  - [Item based - used By Amazon]
-  (https://github.com/siddharth1608/datascience/blob/master/recommender_systems/item_based/collaborative_filtering_using_RDDs.ipynb)
+  - [Item based - used By Amazon](https://github.com/siddharth1608/datascience/blob/master/recommender_systems/item_based/collaborative_filtering_using_RDDs.ipynb)
 
 
 ## Visualization
