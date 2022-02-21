@@ -9,7 +9,8 @@
 - ### Kafka ###
   - [Introduction](https://github.com/siddharth1608/datascience/blob/master/streaming/kafka/introduction_to_kafka.ipynb)
   - [Simple Chat app using kakfa-python](https://github.com/siddharth1608/datascience/tree/master/streaming/kafka/python/simple_chat_app)
-  -- ![Screenshots](https://github.com/siddharth1608/datascience/tree/master/streaming/kafka/python/simple_chat_app/demo.gif) 
+  
+  ![Screenshots](https://github.com/siddharth1608/datascience/tree/master/streaming/kafka/python/simple_chat_app/demo.gif) 
 
 ## Machine Learning ##
 - ### Linear Regression ###
