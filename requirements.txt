@@ -5,3 +5,4 @@ statsmodels
 matplotlib
 seaborn
 tqdm
+Kafka-python==2.0.2
