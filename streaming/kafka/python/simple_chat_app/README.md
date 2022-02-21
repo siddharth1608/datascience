@@ -1,6 +1,24 @@
-# Welcome to datascience portal
+# Simple Chat application in Kafka using Python
 
-### Hi, there. I will use this space to share my projects, learnings and experiences in Data Science. 
+### Steps
+
+#### Step 1: Run Zookeeper service
+
+From the folder where you extracted kafka run the following command
+
+$ bin/zookeeper-server-start.sh config/zookeeper.properties
+
+#### Step 1: Run Kafka server
+
+$ bin/kafka-server-start.sh config/server.properties
+
+#### Step 1: Create Kafka topic
+
+$ bin/kafka-topics.sh --create --topic quickstart-events --bootstrap-server localhost:9092
+
+#### Step 1: Create Kafka Producer
+
+#### Step 1: Create Kafka Consumer
 
 ## Streaming ##
 - ### Apache ###

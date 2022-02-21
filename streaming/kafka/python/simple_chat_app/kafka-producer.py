@@ -16,7 +16,7 @@ def transfer_message(text):
     """
     This function will accept user input text and broadcast it to the Kafka topic
     """
-    producer.send('test', text.encode('utf-8'))
+    producer.send('simple-chat-app', text.encode('utf-8'))
     
     producer.flush()
     
