@@ -1,6 +1,8 @@
 # Simple Chat application in Kafka using Python
 
-  
+Goal: Create a simple chat app in python to get the hang off kafka-python
+
+Assumption: In this article I assume you have already download kafka package and installed kafka-python. For more details [Kafka Get Started](https://kafka.apache.org/quickstart) and [kafka-python installation](https://kafka-python.readthedocs.io/en/master/install.html)
 
 ### Steps
 
@@ -26,4 +28,4 @@ Again in another terminal, execute producer script and type a message & hit Ente
 Code present here - [kafka-producer.py](https://github.com/siddharth1608/datascience/blob/master/streaming/kafka/python/simple_chat_app/kafka-producer.py)
 
 **Note**: I have created the topic inside the Producer code. We can also do that in the terminal after Step 2 above using the following command
->bin/kafka-topics.sh --describe --topic simple-chat-app --bootstrap-server localhost:9092
+>$ bin/kafka-topics.sh --describe --topic simple-chat-app --bootstrap-server localhost:9092
