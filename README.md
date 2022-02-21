@@ -1,3 +1,4 @@
+
 # Welcome to datascience portal
 
 ### Hi, there. I will use this space to share my projects, learnings and experiences in Data Science. 
@@ -5,8 +6,10 @@
 #### Hope you like it. I will be happy to hear any comments, improvements or suggestions at skanojiy@sfu.ca | siddharth.kanojiya@gmail.com ####
 
 ## Streaming ##
-- ### Apache ###
-  - [Kafka](https://github.com/siddharth1608/datascience/blob/master/streaming/kafka/introduction_to_kafka.ipynb)
+- ### Kafka ###
+  - [Introduction](https://github.com/siddharth1608/datascience/blob/master/streaming/kafka/introduction_to_kafka.ipynb)
+  - [Simple Chat app using kakfa-python](https://github.com/siddharth1608/datascience/tree/master/streaming/kafka/python/simple_chat_app)
+  -- ![Screenshots](https://github.com/siddharth1608/datascience/tree/master/streaming/kafka/python/simple_chat_app/demo.gif) 
 
 ## Machine Learning ##
 - ### Linear Regression ###
