@@ -27,5 +27,12 @@ Again in another terminal, execute producer script and type a message & hit Ente
 
 Code present here - [kafka-producer.py](https://github.com/siddharth1608/datascience/blob/master/streaming/kafka/python/simple_chat_app/kafka-producer.py)
 
+
+## Output
+
+![Screenshots](demo.gif)
+
+
 **Note**: I have created the topic inside the Producer code. We can also do that in the terminal after Step 2 above using the following command
 >$ bin/kafka-topics.sh --describe --topic simple-chat-app --bootstrap-server localhost:9092
+
